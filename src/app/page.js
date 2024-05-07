@@ -1,11 +1,11 @@
 "use client";
 
 import Image from "next/image";
-import NavBar from "./componets/NavBar";
-import HeroSection from "./componets/heroSection";
+import NavBar from "./components/NavBar";
+import HeroSection from "./components/heroSection";
 import "bootstrap/dist/css/bootstrap.min.css";
-import FeatureSection from "./componets/FeatureSection";
-import Footer from "./componets/Footer";
+import FeatureSection from "./components/FeatureSection";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
